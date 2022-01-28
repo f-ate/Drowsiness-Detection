@@ -263,6 +263,12 @@ link of project
 Insert gif or link to demo
 
 
+https://user-images.githubusercontent.com/97509895/151505611-1fcac8e1-fed0-4eeb-b5a4-88f758a926fb.mp4
+
+
+
+
+
 ## Running Drowsiness Detection Model
 source '0' for webcam
 
@@ -271,7 +277,7 @@ source '0' for webcam
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/f-ate/Drowsiness-Detection/blob/main/IMG_20220125_115121.jpg)
 
 
 ## Advantages
